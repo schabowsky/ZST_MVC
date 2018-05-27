@@ -1,0 +1,10 @@
+D:\Mateusz\projekty_C#\sql\LogViewer\LogViewer\bin\Debug\LogViewer.exe.config
+D:\Mateusz\projekty_C#\sql\LogViewer\LogViewer\bin\Debug\LogViewer.exe
+D:\Mateusz\projekty_C#\sql\LogViewer\LogViewer\bin\Debug\LogViewer.pdb
+D:\Mateusz\projekty_C#\sql\LogViewer\LogViewer\obj\Debug\LogViewer.csprojResolveAssemblyReference.cache
+D:\Mateusz\projekty_C#\sql\LogViewer\LogViewer\obj\Debug\LogViewer.Form1.resources
+D:\Mateusz\projekty_C#\sql\LogViewer\LogViewer\obj\Debug\LogViewer.Properties.Resources.resources
+D:\Mateusz\projekty_C#\sql\LogViewer\LogViewer\obj\Debug\LogViewer.csproj.GenerateResource.Cache
+D:\Mateusz\projekty_C#\sql\LogViewer\LogViewer\obj\Debug\LogViewer.csproj.CoreCompileInputs.cache
+D:\Mateusz\projekty_C#\sql\LogViewer\LogViewer\obj\Debug\LogViewer.exe
+D:\Mateusz\projekty_C#\sql\LogViewer\LogViewer\obj\Debug\LogViewer.pdb

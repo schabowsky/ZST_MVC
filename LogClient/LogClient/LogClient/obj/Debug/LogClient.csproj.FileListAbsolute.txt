@@ -1,0 +1,6 @@
+D:\Mateusz\projekty_C#\ZST C#\LogClient\LogClient\LogClient\bin\Debug\LogClient.exe.config
+D:\Mateusz\projekty_C#\ZST C#\LogClient\LogClient\LogClient\bin\Debug\LogClient.exe
+D:\Mateusz\projekty_C#\ZST C#\LogClient\LogClient\LogClient\bin\Debug\LogClient.pdb
+D:\Mateusz\projekty_C#\ZST C#\LogClient\LogClient\LogClient\obj\Debug\LogClient.csproj.CoreCompileInputs.cache
+D:\Mateusz\projekty_C#\ZST C#\LogClient\LogClient\LogClient\obj\Debug\LogClient.exe
+D:\Mateusz\projekty_C#\ZST C#\LogClient\LogClient\LogClient\obj\Debug\LogClient.pdb

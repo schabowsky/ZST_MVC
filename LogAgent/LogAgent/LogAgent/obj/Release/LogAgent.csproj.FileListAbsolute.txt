@@ -1,0 +1,7 @@
+D:\Mateusz\projekty_C#\ZST C#\LogAgent\LogAgent\LogAgent\bin\Release\LogAgent.exe.config
+D:\Mateusz\projekty_C#\ZST C#\LogAgent\LogAgent\LogAgent\bin\Release\LogAgent.exe
+D:\Mateusz\projekty_C#\ZST C#\LogAgent\LogAgent\LogAgent\bin\Release\LogAgent.pdb
+D:\Mateusz\projekty_C#\ZST C#\LogAgent\LogAgent\LogAgent\obj\Release\LogAgent.csproj.CoreCompileInputs.cache
+D:\Mateusz\projekty_C#\ZST C#\LogAgent\LogAgent\LogAgent\obj\Release\LogAgent.exe
+D:\Mateusz\projekty_C#\ZST C#\LogAgent\LogAgent\LogAgent\obj\Release\LogAgent.pdb
+D:\Mateusz\projekty_C#\ZST C#\LogAgent\LogAgent\LogAgent\obj\Release\LogAgent.csprojResolveAssemblyReference.cache
